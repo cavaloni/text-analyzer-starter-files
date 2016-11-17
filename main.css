@@ -8,6 +8,7 @@ body {
 
 .container {
   padding: 30px;
+
 }
 
 main {
@@ -25,4 +26,8 @@ label {
 
 .text-report dt:after {
   content: ": ";
+}
+
+.pink_out {
+	background-color:pink;
 }
